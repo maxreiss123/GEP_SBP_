@@ -134,7 +134,7 @@ module RegressionWrapper
 
 export GepRegressor
 export create_function_entries, create_feature_entries, create_constants_entries, create_physical_operations
-export GENE_COMMON_PROBS, FUNCTION_LIB_BACKWARD_COMMON, FUNCTION_LIB_FORWARD_COMMON, FUNCTION_LIB_COMMON
+export GENE_COMMON_PROBS, FUNCTION_LIB_BACKWARD_COMMON, FUNCTION_LIB_FORWARD_COMMON, FUNCTION_LIB_COMMON, ARITY_LIB_COMMON
 export fit!
 
 export list_all_functions, list_all_arity, list_all_forward_handlers, 
